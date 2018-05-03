@@ -17,4 +17,5 @@ ACE ADMIN DEMO URL http://127.0.0.1/demo/static/index.html
 
 * 安装python3+
 * pip3 install -r require.list
-* python manager.py migrate
+* python manage.py migrate
+* python manage.py runserver 80
