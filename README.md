@@ -12,6 +12,7 @@
 ## DEMO
 
 ACE ADMIN DEMO URL http://127.0.0.1/demo/static/index.html
+ACE ADMIN模板复用
 
 ## Installing And Run
 
