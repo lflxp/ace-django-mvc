@@ -1,8 +1,8 @@
-# Django 云翼平台开发架构
+# Django 
 
 ##  介绍
 
-云翼系统采用Django 2.0进行开发，系统采用K8S+DOCKER的云PAAS平台。
+系统采用Django 2.0进行开发
 
 ## Framework
 
